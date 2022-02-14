@@ -1,15 +1,17 @@
 ## Welcome to Jared Pohl' portfolio
 
-### Code Review:
+## Self Assessment:
+
+## Code Review:
 
 
-### Project Introduction
+## Project Introduction
 
 
-### Software Design and Engineering Enhancement:
+## Software Design and Engineering Enhancement:
 
-### Data Structures and Algorithms Enhancment:
+## Data Structures and Algorithms Enhancment:
 
-### Databases Enhancement:
+## Databases Enhancement:
 
-### Polished Artifact:
+## Polished Artifact:
