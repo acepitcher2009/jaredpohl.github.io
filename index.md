@@ -36,5 +36,5 @@ For the enhancements relating to databases, again, I started with looking at wha
 
 ## Polished Artifact:
 This link will take you to the repository that has the polished version of the project rewrite
-https://github.com/acepitcher2009/reactAAC
+<a href='https://github.com/acepitcher2009/reactAAC'>Polished AAC Animal Shelter Project</a>
 
