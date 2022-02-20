@@ -1,5 +1,9 @@
 ## Welcome to Jared Pohl' portfolio
 
+## Code Review:
+<p align='center'>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VWmZK4t3ujs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+
 ## Self Assessment:
 
 As I have progressed through the computer science program, I have obtained many skills that have allowed me to step into the tech world and be successful. The skills I have obtained that have allowed for me to be a successful developer include team collaboration, communication to stakeholders, data structures and algorithms, software engineering and database usage, and security. All these skills have shaped me in a way that has significantly improved my ability to be a developer.
@@ -18,11 +22,7 @@ I didn’t take any classes relating to security in this program. However, as I 
 For this project I have chosen to rewrite an application that was initially a single page application. I chose to rewrite this project because it allowed me to showcase skills such as software engineering and design, data structures and algorithms, the use of database. To showcase my skills as a developer I utilized a MongoDB Atlas database. This database is a cloud database which allows for users to utilize this application from anywhere with out the need of a server in every location the application would or could be used. I also utilized the MERN (MongoDB, Express, React, Node) tech stack to develop this application. I chose this tech stack because it aligned with skills I have learned from my current role and would allow me to not only display my knowledge and ability to use this tech stack but also allow for refinement of basic abilities within this tech stack. Within this application, to showcase my skills within software engineering and design, you will find a simple, easy to use design for this application. You will also find that there are multiple pages within this application that allow for different functionalities within the CRUD operations. Also found in this application is the use of arrays. Using arrays and applying logical functions to them allow for the display of the skills learned from the data structures and algorithms course. The final piece you will find within this application is the database and the logic on the backend for communication with the database. This showcases my abilities to create and use a database within a project. As a whole this project shows my ability to develop a full stack application from start to finish. 
 
 
-## Code Review:
-
-
 ## Project Introduction
-
 
 ## Software Design and Engineering Enhancement:
 
